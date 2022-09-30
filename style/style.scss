@@ -40,9 +40,10 @@ html, body{
          font-weight: 400;
          color: $grayishBlue;
 
-         p{
+         span{
             font-weight: 600;
             color: $veryDarkBlue;
+            display: block;
          }
       }
       .subtitle{
@@ -118,7 +119,6 @@ html, body{
 
 @media (max-width: 1440px){
    .wrapper{
-
       header{
          width: 40%;
       }
