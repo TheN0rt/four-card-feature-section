@@ -116,15 +116,24 @@ html, body{
    }
 }
 
-@media (max-width: 990px){
+@media (max-width: 1440px){
    .wrapper{
 
       header{
-         width: 50%;
+         width: 40%;
       }
    }
    
 }
+// @media (max-width: 990px){
+//    .wrapper{
+
+//       header{
+//          width: 50%;
+//       }
+//    }
+   
+// }
 
 @media (max-width: 640px){
    .wrapper{
